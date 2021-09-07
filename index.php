@@ -56,12 +56,12 @@ require "header.php";
     	<div class="arranging"><br><hr>
 	<h4 class="text-center">Our Story</h4>
 	<p><br>Famiglia Romano<br>
-I was born in Henley Beach.
+<b>I was born in Henley Beach.
 My schooling was at the Star of the Sea Primary & St Michael's College. My boys and daughter are second generation attending the same schools as myself.
 Over the last 30 years I've seen Henley beach grow from a small suburb to a vibrant and thriving precinct. I believe Henley Beach has become an iconic go to destination!
 My passion as a farmer and love of our country has led me to open a local fresh grill and bar restaurant realising a dream of mine. I really believe it's something we need in our community.
 The Leopardi house and restaurant are yours to enjoy as well. We look forward to having the pleasure of serving you all.
-John Romano and family.
+John Romano and family.<b>
 Ciao.
 <br><br><br></p><hr>
 	</div>
